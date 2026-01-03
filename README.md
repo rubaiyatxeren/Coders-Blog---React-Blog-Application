@@ -63,7 +63,7 @@ src/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/coders-blog.git
+git clone https://github.com/rubaiyatxeren/Coders-Blog---React-Blog-Application.git
 cd coders-blog
 ```
 
